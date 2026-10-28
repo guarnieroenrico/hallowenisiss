@@ -1,2 +1,0 @@
-Metti qui la tua canzone di Halloween chiamandola halloween.mp3 (va bene anche .m4a .ogg .wav).
-Se la cartella e vuota, parte una musichetta stregata generata dal browser.
